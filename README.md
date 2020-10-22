@@ -4,7 +4,7 @@ in this project we used Python(OpenCV) and Pycharm editor.
 
 - To do the faces Recognition we used the (face_recognition) library:
   - First we fetch the images from (dataset/train) file.
-  - spilt people names from the photo names.
+  - spilt people names from the names of photos.
   - We do the encode for images to use that for recognition.
   - Finally we use the webcam or static video for do the test (recognition).
   
