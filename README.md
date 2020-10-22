@@ -1,6 +1,6 @@
-Face Detection (Recognition) Using OpenCV
+- Face Detection (Recognition) Using OpenCV
 
-in this project we used Python(OpenCV) and Pycharm editor.
+- in this project we used Python(OpenCV) and Pycharm editor.
 
 - To do the faces Recognition we used the (face_recognition) library:
   - First we fetch the images from (dataset/train) file.
