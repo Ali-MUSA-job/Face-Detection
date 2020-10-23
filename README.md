@@ -19,7 +19,7 @@
   - cmake
   - face_recognition
 
-- To install (dlib) you just need to install Visual Studio Community and add (Desktop Development with c++) package.
+- To install (dlib) you just need to install Visual Studio Community and add (Desktop Development with c++) package. (we will not use VS just we need to install that to own dlib library).
 - To install (cmake) you can use (pip install cmake).
 - To install (NumPy) you can use (pip install numpy).
 - To install (face_recognition) you can use (pip install face_recognition).
