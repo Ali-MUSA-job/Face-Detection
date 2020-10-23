@@ -1,4 +1,4 @@
-- Face Detection (Recognition) Using OpenCV
+- Face Detection (Recognition) Using OpenCV.
 
 - in this project we used Python(OpenCV) and Pycharm editor.
 
@@ -12,6 +12,24 @@
 - for train a project with your own photos you need to upload the photos for (dataset/train) file, for test a project with a static videos you need to upload your own videos for (dataset/test).
 
 - Please note, the names of people must be written on the images to be used because the program has been configured to take people names from the names of the images.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Requirement libraries for building this project in a fresh environment:
+  - NumPy
+  - Dlib
+  - cmake
+  - face_recognition
+
+- To install (dlib) you just need to install Visual Studio Community and add (Desktop Development with c++) package.
+- To install (cmake) you can use (pip install cmake).
+- To install (NumPy) you can use (pip install numpy).
+- To install (face_recognition) you can use (pip install face_recognition).
+
+- if you need another way to install (cmake - numpy - face_recognition) from pychram:
+    - make a new project.
+    - follow this install roadmap : File -> Settings -> Project :(your project name) -> Project Interpreter -> press (+) -> (Type library name in the search) -> install.
+    - Please note : when you search for (face recognition) library You will see a lot of libraries, please install this library (face-recognition) 
+
+- Please attention : to install face_recognition library you must own (dlib) library before, please first install VS Community and add (Desktop Development with c++) package.
 
 Thanks for reading ....
 
